@@ -10,3 +10,8 @@ float GitTestClass::funcB()
 {
 	return b;
 }
+
+char GitTestClass::funcC()
+{
+	return c;
+}
