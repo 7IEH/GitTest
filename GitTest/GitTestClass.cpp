@@ -5,3 +5,8 @@ int GitTestClass::funcA()
 {
 	return a;
 }
+
+float GitTestClass::funcB()
+{
+	return b;
+}
